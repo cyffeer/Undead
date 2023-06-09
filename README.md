@@ -1,1 +1,1 @@
-# undead.py
+# undead project
